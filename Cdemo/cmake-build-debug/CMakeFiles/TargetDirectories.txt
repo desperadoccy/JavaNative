@@ -1,0 +1,3 @@
+C:/Users/test/Desktop/demo/Cdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/test/Desktop/demo/Cdemo/cmake-build-debug/CMakeFiles/Cdemo.dir
+C:/Users/test/Desktop/demo/Cdemo/cmake-build-debug/CMakeFiles/edit_cache.dir

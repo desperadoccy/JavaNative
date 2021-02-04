@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/test/Desktop/demo/Cdemo/jni.h
+stdio.h
+-
+stdarg.h
+-
+jni_md.h
+C:/Users/test/Desktop/demo/Cdemo/jni_md.h
+
+C:/Users/test/Desktop/demo/Cdemo/jni_md.h
+
+C:/Users/test/Desktop/demo/Cdemo/main.cpp
+iostream
+-
+pers_desperado_demo_Demo.h
+C:/Users/test/Desktop/demo/Cdemo/pers_desperado_demo_Demo.h
+
+C:/Users/test/Desktop/demo/Cdemo/pers_desperado_demo_Demo.h
+jni.h
+C:/Users/test/Desktop/demo/Cdemo/jni.h
+
